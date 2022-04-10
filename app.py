@@ -1,8 +1,8 @@
 # Standar Library
 import re
 import string
-from tkinter import Image
-from unittest import result
+#from tkinter import Image
+#from unittest import result
 
 # Third-party Library
 import streamlit as st
